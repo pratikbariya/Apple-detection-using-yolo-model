@@ -1,4 +1,4 @@
-# 🍎 Apple Detection and Measurement using YOLOv11
+# 🍎 Apple Detection using YOLOv11
 
 This project focuses on detecting apples using the YOLOv11 object detection model and paves the way for future measurement tasks such as calculating radius and diameter via segmentation and post-processing.
 
