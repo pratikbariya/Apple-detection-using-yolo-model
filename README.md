@@ -10,7 +10,7 @@ This project focuses on detecting apples using the YOLOv11 object detection mode
 
 Each object is identified with:
 - A **class label** (e.g., Apple)
-- A **bounding box** with coordinates (x, y, width, height)
+- A **bounding box** with coordinates (class_id, x_center, y_center, width, height)
 
 ---
 
